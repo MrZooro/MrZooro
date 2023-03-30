@@ -3,7 +3,21 @@
 * * *
 -   Profile stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleDevo4ka&show_icons=true&theme=radical&include_all_commits=true&card_width=993)
+<div align="center">&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleDevo4ka&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittleDevo4ka&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LittleDevo4ka&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittleDevo4ka&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LittleDevo4ka&theme=dark&utcOffset=3"/>
+</div>
+
+
 
 
 
